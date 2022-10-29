@@ -1,0 +1,29 @@
+@media (max-width: 991.98px) { 
+    .ms-5{
+        margin-left: 0;
+    }
+}
+
+@media (max-width: 575.98px) { 
+
+    header nav .container .navbar-brand img{
+        width: 160px;
+    }
+
+    .container-image .centrar-verticalmente h1 {
+        display: none;
+    }
+
+    .container-image .centrar-verticalmente h2{
+        font-size: 0.8rem;
+    }
+
+    .container-image .centrar-verticalmente span{
+        font-size: 0.8rem;
+    }
+
+    .container-image .centrar-verticalmente button{
+        width: 140px !important;
+        font-size: 0.6rem !important;
+     }
+}
